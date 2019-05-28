@@ -1,0 +1,289 @@
+{
+	"jobs": [{
+		"jobId": 33602575,
+		"title": "Customer Service Consultant",
+		"advertiser": "Link Group",
+		"location": "Melbourne",
+		"status": "Expired",
+		"salary": "",
+		"isExternal": true,
+		"listedDateUtc": "2017-06-02T05:31:46.77Z",
+		"savedDateUtc": "2017-06-07T23:57:06.5Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33602575"
+			}
+		}
+	}, {
+		"jobId": 33548679,
+		"title": "MEMBERSHIP OFFICER (CUSTOMER SERVICE)",
+		"advertiser": "Priority Appointments",
+		"location": "Melbourne",
+		"status": "Active",
+		"salary": "",
+		"isExternal": false,
+		"listedDateUtc": "2017-05-26T04:25:20.62Z",
+		"savedDateUtc": "2017-06-07T23:57:01.513Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33548679"
+			}
+		}
+	}, {
+		"jobId": 33607186,
+		"title": "Customer Service & Sales Consultant",
+		"advertiser": "Smaart Recruitment",
+		"location": "Melbourne",
+		"status": "Active",
+		"salary": "",
+		"isExternal": false,
+		"listedDateUtc": "2017-06-03T00:00:28.007Z",
+		"savedDateUtc": "2017-06-07T23:57:00.903Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33607186"
+			}
+		}
+	}, {
+		"jobId": 33584349,
+		"title": "Data Scientist - Mining  (Relocation Required)",
+		"advertiser": "South32",
+		"location": "Melbourne",
+		"status": "Active",
+		"salary": "True work-life balance. Be more than a number",
+		"isExternal": true,
+		"listedDateUtc": "2017-05-31T08:23:51.85Z",
+		"savedDateUtc": "2017-06-02T04:55:44.977Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33584349"
+			}
+		}
+	}, {
+		"jobId": 33505972,
+		"title": "Accounts Payable Officer",
+		"advertiser": "Merlin Entertainments Group",
+		"location": "Sydney",
+		"status": "Expired",
+		"salary": "",
+		"isExternal": true,
+		"listedDateUtc": "2017-05-22T00:29:02.357Z",
+		"savedDateUtc": "2017-06-02T04:55:38.493Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33505972"
+			}
+		}
+	}, {
+		"jobId": 33574365,
+		"title": "Disability Support Workers in Newcastle",
+		"advertiser": "Healthcare Australia Community Care",
+		"location": "Newcastle, Maitland & Hunter",
+		"status": "Active",
+		"salary": "",
+		"isExternal": false,
+		"listedDateUtc": "2017-05-30T09:01:49.997Z",
+		"savedDateUtc": "2017-06-01T03:06:13.47Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33574365"
+			}
+		}
+	}, {
+		"jobId": 33551960,
+		"title": "Casual Home Care Worker",
+		"advertiser": "Healthcare Australia Community Care",
+		"location": "Newcastle, Maitland & Hunter",
+		"status": "Active",
+		"salary": "",
+		"isExternal": false,
+		"listedDateUtc": "2017-05-26T07:02:17.133Z",
+		"savedDateUtc": "2017-06-01T03:06:08.877Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33551960"
+			}
+		}
+	}, {
+		"jobId": 33487179,
+		"title": "Support Worker - Forster",
+		"advertiser": "integratedliving Australia Limited",
+		"location": "Newcastle, Maitland & Hunter",
+		"status": "Active",
+		"salary": "$20 - $24.99 per hour",
+		"isExternal": false,
+		"listedDateUtc": "2017-05-18T04:58:41.607Z",
+		"savedDateUtc": "2017-06-01T03:06:08.14Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33487179"
+			}
+		}
+	}, {
+		"jobId": 33501146,
+		"title": "Customer Service and Sales",
+		"advertiser": "Ignite Business Support",
+		"location": "Melbourne",
+		"status": "Active",
+		"salary": "Excellent commission structure",
+		"isExternal": false,
+		"listedDateUtc": "2017-05-19T09:59:46.333Z",
+		"savedDateUtc": "2017-05-30T01:18:26.157Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33501146"
+			}
+		}
+	}, {
+		"jobId": 33377788,
+		"title": "Mobile Ugg-Li Advert - Do not apply Do not Expire - Sed ut perspiciatis unde omn",
+		"advertiser": "Seek Testing1 AU Account",
+		"location": "Launceston & North East",
+		"status": "Active",
+		"salary": "$110,000 - $119,999",
+		"isExternal": false,
+		"listedDateUtc": "2017-06-27T00:29:21.19Z",
+		"savedDateUtc": "2017-05-26T02:13:00.047Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33377788"
+			}
+		}
+	}, {
+		"jobId": 33526542,
+		"title": "Senior Medical Superintendent with Private Practice BARALABA",
+		"advertiser": "Central Queensland Hospital and Health Service",
+		"location": "Melbourne",
+		"status": "Expired",
+		"salary": "Qld Health work conditions & benefits",
+		"isExternal": true,
+		"listedDateUtc": "2017-05-24T00:52:12.907Z",
+		"savedDateUtc": "2017-05-24T01:21:02.67Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33526542"
+			}
+		}
+	}, {
+		"jobId": 33462759,
+		"title": "Customer Service Officer",
+		"advertiser": "Sharp & Carter Business Support",
+		"location": "Melbourne",
+		"status": "Active",
+		"salary": "55000",
+		"isExternal": false,
+		"listedDateUtc": "2017-05-16T00:02:08.143Z",
+		"savedDateUtc": "2017-05-24T01:04:27.437Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33462759"
+			}
+		}
+	}, {
+		"jobId": 33474630,
+		"title": "Customer Service Guru",
+		"advertiser": "babybee prams",
+		"location": "Melbourne",
+		"status": "Active",
+		"salary": "$25 - $29.99 per hour plus super",
+		"isExternal": false,
+		"listedDateUtc": "2017-05-17T01:26:18.427Z",
+		"savedDateUtc": "2017-05-24T01:04:26.657Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33474630"
+			}
+		}
+	}, {
+		"jobId": 33500475,
+		"title": "Customer Service Team Leader",
+		"advertiser": "Manningham City Council",
+		"location": "Melbourne",
+		"status": "Active",
+		"salary": "",
+		"isExternal": true,
+		"listedDateUtc": "2017-05-19T07:50:51.66Z",
+		"savedDateUtc": "2017-05-24T00:38:38.827Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33500475"
+			}
+		}
+	}, {
+		"jobId": 33463028,
+		"title": "Workshop Foreman - Toyota Dealership",
+		"advertiser": "Wideland Group",
+		"location": "Newcastle, Maitland & Hunter",
+		"status": "Active",
+		"salary": "",
+		"isExternal": false,
+		"listedDateUtc": "2017-05-16T00:15:59.073Z",
+		"savedDateUtc": "2017-05-23T06:19:41.387Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33463028"
+			}
+		}
+	}, {
+		"jobId": 33422910,
+		"title": "Lead Trainer and Assessor - Foundation Programs",
+		"advertiser": "MAX Solutions",
+		"location": "Adelaide",
+		"status": "Active",
+		"salary": "",
+		"isExternal": true,
+		"listedDateUtc": "2017-05-10T05:29:28.057Z",
+		"savedDateUtc": "2017-05-16T05:20:21.353Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33422910"
+			}
+		}
+	}, {
+		"jobId": 33435205,
+		"title": "Kitchen Hand",
+		"advertiser": "Charred Kitchen & Bar",
+		"location": "Blue Mountains & Central West",
+		"status": "Active",
+		"salary": "",
+		"isExternal": false,
+		"listedDateUtc": "2017-05-11T07:47:17.52Z",
+		"savedDateUtc": "2017-05-16T04:26:16.197Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33435205"
+			}
+		}
+	}, {
+		"jobId": 33419862,
+		"title": "Community Support Worker",
+		"advertiser": "ADHC, Hunter Residences",
+		"location": "Newcastle, Maitland & Hunter",
+		"status": "Active",
+		"salary": "",
+		"isExternal": true,
+		"listedDateUtc": "2017-05-10T02:10:33.957Z",
+		"savedDateUtc": "2017-05-15T06:23:14.92Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33419862"
+			}
+		}
+	}, {
+		"jobId": 33354777,
+		"title": "Home Care Support Worker | Maitland & Hunter | Casual",
+		"advertiser": "Australian Unity",
+		"location": "Newcastle, Maitland & Hunter",
+		"status": "Active",
+		"salary": "",
+		"isExternal": true,
+		"listedDateUtc": "2017-05-02T02:43:05.177Z",
+		"savedDateUtc": "2017-05-15T06:18:38.087Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33354777"
+			}
+		}
+	}],
+    "nextPage": 2
+}

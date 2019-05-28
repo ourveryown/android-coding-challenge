@@ -1,0 +1,48 @@
+{
+	"jobs": [{
+		"jobId": 33802575,
+		"title": "Page 2 Customer Service Consultant",
+		"advertiser": "Link Group",
+		"location": "Melbourne",
+		"status": "Active",
+		"salary": "",
+		"isExternal": true,
+		"listedDateUtc": "2017-06-02T05:31:46.77Z",
+		"savedDateUtc": "2017-06-07T23:57:06.5Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33602575"
+			}
+		}
+	}, {
+		"jobId": 33543679,
+		"title": "Page 2MEMBERSHIP OFFICER (CUSTOMER SERVICE)",
+		"advertiser": "Priority Appointments",
+		"location": "Melbourne",
+		"status": "Expired",
+		"salary": "",
+		"isExternal": false,
+		"listedDateUtc": "2017-05-26T04:25:20.62Z",
+		"savedDateUtc": "2017-06-07T23:57:01.513Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33548679"
+			}
+		}
+	}, {
+		"jobId": 33777186,
+		"title": "age 2 Customer Service & Sales Consultant",
+		"advertiser": "Smaart Recruitment",
+		"location": "Melbourne",
+		"status": "Active",
+		"salary": "",
+		"isExternal": false,
+		"listedDateUtc": "2017-06-03T00:00:28.007Z",
+		"savedDateUtc": "2017-06-07T23:57:00.903Z",
+		"_links": {
+			"delete": {
+				"href": "https://mapi.cloud.seek.com.au/my-activity/saved-jobs/33607186"
+			}
+		}
+	}]
+}
