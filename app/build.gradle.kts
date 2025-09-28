@@ -1,18 +1,19 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
+    id("org.jetbrains.kotlin.plugin.compose") version "2.2.20"
 }
 
-val jdkVersion = JavaVersion.VERSION_17
+val jdkVersion = JavaVersion.VERSION_21
 
 android {
     namespace = "au.com.ourveryown.ovoandroidhomeworktask"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "au.com.ourveryown.ovoandroidhomeworktask"
         minSdk = 26
-        targetSdk = 34
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
         testInstrumentationRunner = "android.support.test.runner.AndroidJUnitRunner"
@@ -24,13 +25,8 @@ android {
 
     buildTypes {
         release {
-
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
-    }
-
-    composeOptions {
-        kotlinCompilerExtensionVersion = "1.5.12"
     }
 
     compileOptions {
@@ -40,15 +36,15 @@ android {
 }
 
 dependencies {
-    implementation(platform("androidx.compose:compose-bom:2024.04.01"))
+    implementation(platform("androidx.compose:compose-bom:2025.09.01"))
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.ui:ui-tooling")
     implementation("androidx.compose.material:material")
 
-    implementation("androidx.activity:activity-compose:1.9.0")
-    implementation("androidx.appcompat:appcompat:1.6.1")
+    implementation("androidx.activity:activity-compose:1.11.0")
+    implementation("androidx.appcompat:appcompat:1.7.1")
 
-    implementation("com.google.code.gson:gson:2.10.1")
+    implementation("com.google.code.gson:gson:2.13.2")
 
     testImplementation("junit:junit:4.13.2")
 
